@@ -164,5 +164,5 @@ Features:
 - Portfolio: [https://shirinadan.github.io/my-portfolio/](https://shirinadan.github.io/my-portfolio/)
 - LinkedIn: [https://www.linkedin.com/in/shirinadan/](https://www.linkedin.com/in/shirinadan/)
 - GitHub: [https://github.com/shirinadan](https://github.com/shirinadan)
-- Discord: [shirinadan](
+- Discord: shirinadan
 - Email: [slnu006@fiu.edu](mailto:slnu006@fiu.edu)
